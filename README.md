@@ -77,6 +77,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/yaslopesyweb/yaslopesyweb/output/snake.svg](https://github.com/yaslopesyweb/yaslopesyweb/blob/main/snake.yml)" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
