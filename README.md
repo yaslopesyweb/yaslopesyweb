@@ -1,6 +1,5 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s1OGZjcWN2MnUzOWszOHdpZTlrczJvcGdtcGQyaWt1NWZoMW5paSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRoLGgwE4xTQYTxyJg/giphy.gif"  />
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Hello+World+🔐+🌩️+⚙️" alt="Typing SVG" />
 </h1>
@@ -12,7 +11,6 @@
 </h3>
 
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
