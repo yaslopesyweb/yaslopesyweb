@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://img.freepik.com/premium-vector/cloud-computing_46706-717.jpg"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s1OGZjcWN2MnUzOWszOHdpZTlrczJvcGdtcGQyaWt1NWZoMW5paSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRoLGgwE4xTQYTxyJg/giphy.gif"  />
 
 ###
 
@@ -12,9 +12,6 @@
   Always learning, always evolving. 🚀
 </h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s1OGZjcWN2MnUzOWszOHdpZTlrczJvcGdtcGQyaWt1NWZoMW5paSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRoLGgwE4xTQYTxyJg/giphy.gif" alt="Cloud DevOps Cybersecurity GIF" width="400"/>
-</div>
 
 ###
 
