@@ -12,6 +12,10 @@
   Always learning, always evolving. 🚀
 </h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s1OGZjcWN2MnUzOWszOHdpZTlrczJvcGdtcGQyaWt1NWZoMW5paSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRoLGgwE4xTQYTxyJg/giphy.gif" alt="Cloud DevOps Cybersecurity GIF" width="400"/>
+</div>
+
 ###
 
 <div align="center">
@@ -86,5 +90,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/yaslopesyweb/yaslopesyweb/output/snake.svg" alt="Snake animation" />
-
-###
