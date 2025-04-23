@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Hello+World+🔐+🌩️+⚙️" alt="Typing SVG" />
-</h2>
+</h1>
 
-<h4 align="left">
+<h3 align="left">
   👋 Hello World, I'm Yasmin<br><br>
   I'm passionate about technology, currently diving into Cyber Security, DevOps, and Cloud Computing. I enjoy building secure, scalable, and agile solutions using tools like AWS, Azure, Google Cloud, Java, C#, Docker, and SQL.<br><br>
   Always learning, always evolving. 🚀
-</h4>
+</h3>
 
 ###
 
